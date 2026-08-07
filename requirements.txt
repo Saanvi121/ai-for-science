@@ -1,0 +1,6 @@
+datasets
+pandas
+scikit-learn
+openai
+google-genai
+tqdm
