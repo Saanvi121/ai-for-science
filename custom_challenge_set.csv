@@ -1,0 +1,151 @@
+id,text,gold_labels,feature_type
+S01,"Oh great, another Monday. Just what I needed.",annoyance,sarcasm
+S02,"Wow, you're a genius for reminding me the sky is blue.",annoyance,sarcasm
+S03,"Sure, because that plan worked SO well last time.",disapproval,sarcasm
+S04,"Love how my flight got cancelled right before the trip. Fantastic.",anger,sarcasm
+S05,"Nice job breaking the one thing that worked.",annoyance,sarcasm
+S06,"Oh sure, take your time, it's not like I'm waiting or anything.",annoyance,sarcasm
+S07,"Wow, thanks for the 'help', that made everything so much worse.",anger,sarcasm
+S08,"Great, my code broke again. Living the dream.",disappointment,sarcasm
+S09,"Oh fantastic, the WiFi is down during my meeting. Perfect timing.",annoyance,sarcasm
+S10,"I just LOVE waiting three hours in line. Best day ever.",annoyance,sarcasm
+S11,"Sure, blame me, that's always the easy answer.",disapproval,sarcasm
+S12,"Oh yeah, because losing my keys is exactly how I wanted to start the day.",annoyance,sarcasm
+S13,"Congrats on being late again, real reliable.",disapproval,sarcasm
+S14,"Oh good, more homework, exactly what I was hoping for.",disappointment,sarcasm
+S15,"Wow you really outdid yourself burning the toast this time.",amusement,sarcasm
+S16,"Yeah, I'm SO excited to sit through another 4-hour meeting.",annoyance,sarcasm
+S17,"Oh perfect, it's raining on the one day I forgot my umbrella.",annoyance,sarcasm
+S18,"Thanks for the advice, super helpful, really changed my life.",disapproval,sarcasm
+S19,"Nothing like a surprise root canal to make my week.",annoyance,sarcasm
+S20,"Oh look, the printer jammed again, what a shock.",annoyance,sarcasm
+S21,"I'm thrilled my flight got delayed for the third time.",anger,sarcasm
+S22,"Wow, another 'urgent' email at 11pm, love that for me.",annoyance,sarcasm
+S23,"Sure, I definitely enjoy redoing all this work from scratch.",disapproval,sarcasm
+S24,"Oh joy, my package got lost in shipping again.",disappointment,sarcasm
+S25,"Yeah, waking up at 4am is my favorite hobby.",annoyance,sarcasm
+L01,"That concert was fire, no cap.",excitement,slang
+L02,"Bro I'm dead, that meme killed me lol",amusement,slang
+L03,"This exam was straight up mid, not gonna lie.",disappointment,slang
+L04,"Ngl that new album slaps hard.",admiration,slang
+L05,"I'm lowkey stressed about finals rn.",nervousness,slang
+L06,"That's so sus, why would he do that.",confusion,slang
+L07,"She really said that? Bruh.",surprise,slang
+L08,"I'm finna cry, this show is too good.",joy,slang
+L09,"That fit is straight fire, you ate that.",admiration,slang
+L10,"This whole situation is giving major ick.",disgust,slang
+L11,"He really thought he ate with that comment lol",amusement,slang
+L12,"I'm so done, today has been a whole mood.",annoyance,slang
+L13,"That's bussin fr fr.",joy,slang
+L14,"Big yikes on that decision.",disapproval,slang
+L15,"I'm shook, did not see that coming.",surprise,slang
+L16,"That test absolutely wrecked me.",sadness,slang
+L17,"No shot he actually pulled that off.",surprise,slang
+L18,"That's cap, I don't believe you.",disapproval,slang
+L19,"I'm vibing so hard rn, this playlist goes crazy.",joy,slang
+L20,"He's the GOAT no debate.",admiration,slang
+L21,"I can't even, this is too much rn.",annoyance,slang
+L22,"That party was mid ngl.",disappointment,slang
+L23,"I'm salty about losing that game.",annoyance,slang
+L24,"She popped off in that interview, respect.",admiration,slang
+L25,"This homework is not it, chief.",disapproval,slang
+E01,"Just got the job offer 🎉🎉🎉",excitement,emoji
+E02,"My dog passed away last night 😢💔",grief,emoji
+E03,"Can't believe I forgot my charger again 🤦",embarrassment,emoji
+E04,"Finally finished the marathon!! 🏃‍♀️🔥",pride,emoji
+E05,"Waiting for exam results rn 😬",nervousness,emoji
+E06,"This coffee is literally saving my life ☕😍",love,emoji
+E07,"He just proposed!! 💍😭",joy,emoji
+E08,"Ugh Monday again 😩",annoyance,emoji
+E09,"Can't stop laughing at this video 😂😂",amusement,emoji
+E10,"Missing my hometown so much rn 🥺",sadness,emoji
+E11,"Just aced my presentation 💪😤",pride,emoji
+E12,"Why is my package still not here 😤📦",annoyance,emoji
+E13,"Best vacation ever, no complaints 🏖️❤️",joy,emoji
+E14,"Not sure if I should trust him 🤨",confusion,emoji
+E15,"That plot twist though 😱",surprise,emoji
+E16,"So thankful for my friends today 🙏💕",gratitude,emoji
+E17,"First day at new job, so nervous 😰",nervousness,emoji
+E18,"Can't wait for the weekend 🙌",excitement,emoji
+E19,"Lost my wallet again... 🙄",annoyance,emoji
+E20,"This meal is unreal 🤤",admiration,emoji
+E21,"Missed the bus by two minutes 😭",disappointment,emoji
+E22,"So proud of my little sister 🥹",pride,emoji
+E23,"That was terrifying, never again 😨",fear,emoji
+E24,"Sorry for the late reply 🙏😅",remorse,emoji
+E25,"Feeling on top of the world today ☀️😄",joy,emoji
+F01,"My heart sank when I heard the news.",sadness,figurative
+F02,"I was walking on air after the good news.",joy,figurative
+F03,"He nearly bit my head off for no reason.",anger,figurative
+F04,"That comment really rubbed me the wrong way.",annoyance,figurative
+F05,"She's been on cloud nine since the promotion.",joy,figurative
+F06,"I felt like a deer in headlights during the interview.",nervousness,figurative
+F07,"This news hit me like a ton of bricks.",sadness,figurative
+F08,"My blood was boiling by the end of the call.",anger,figurative
+F09,"I was over the moon when I got accepted.",excitement,figurative
+F10,"He's got a chip on his shoulder about it.",annoyance,figurative
+F11,"My stomach dropped when the plane hit turbulence.",fear,figurative
+F12,"I could feel my confidence melting away.",nervousness,figurative
+F13,"That joke fell completely flat.",disappointment,figurative
+F14,"Her words cut deeper than I expected.",sadness,figurative
+F15,"I nearly jumped out of my skin when the alarm went off.",fear,figurative
+F16,"I was walking on eggshells around him all week.",nervousness,figurative
+F17,"My heart skipped a beat when I saw the results.",surprise,figurative
+F18,"I felt a weight lift off my shoulders after telling the truth.",relief,figurative
+F19,"He talks a mile a minute when he's excited.",excitement,figurative
+F20,"I was drowning in work by Thursday.",annoyance,figurative
+F21,"That apology felt like a band-aid on a bullet wound.",disapproval,figurative
+F22,"I hit rock bottom after losing the job.",sadness,figurative
+F23,"She lit up the room when she walked in.",admiration,figurative
+F24,"I've been on pins and needles waiting for the callback.",nervousness,figurative
+F25,"That was the last straw for me.",anger,figurative
+I01,"I guess some people just don't think before they speak.",annoyance,indirect
+I02,"It would be nice if someone actually replied to my messages.",annoyance,indirect
+I03,"Not everyone gets a chance like this, so I feel pretty fortunate.",gratitude,indirect
+I04,"I'm sure it's fine, it's not like I was counting on it or anything.",disappointment,indirect
+I05,"Some of us actually showed up on time today.",annoyance,indirect
+I06,"I wasn't really expecting much, so this is a nice surprise.",surprise,indirect
+I07,"It's whatever, I'm used to being the last one told.",disappointment,indirect
+I08,"I mean, if that's how you want to handle it, sure.",disapproval,indirect
+I09,"I didn't think I'd make it this far, honestly.",pride,indirect
+I10,"Guess I'll just figure it out myself, like always.",annoyance,indirect
+I11,"It's not a big deal, I just wish someone had asked first.",annoyance,indirect
+I12,"I don't want to make a big deal out of it, but that really helped me today.",gratitude,indirect
+I13,"Guess my opinion doesn't matter here.",disappointment,indirect
+I14,"I'm not mad, just a little surprised nobody mentioned it.",surprise,indirect
+I15,"It's fine, I'll just reschedule my whole day around it.",annoyance,indirect
+I16,"I didn't expect to feel this way about leaving.",sadness,indirect
+I17,"Some people really do care, and that means more than they know.",gratitude,indirect
+I18,"I guess I'll believe it when I see it.",disapproval,indirect
+I19,"It's okay, I've handled worse before.",relief,indirect
+I20,"Guess I wasn't the priority this time either.",disappointment,indirect
+I21,"I'm not upset, I just noticed I wasn't invited.",disappointment,indirect
+I22,"It's funny how things work out sometimes.",amusement,indirect
+I23,"I suppose that's one way to handle a crisis.",disapproval,indirect
+I24,"Didn't think I'd care this much, but here we are.",surprise,indirect
+I25,"I guess I'll just wait here, like usual.",annoyance,indirect
+M01,"I'm happy for you but also kind of sad it's ending.","joy,sadness",mixed
+M02,"Proud of myself for finishing, but exhausted beyond belief.","pride,relief",mixed
+M03,"Excited for the new job but terrified I'll mess it up.","excitement,fear",mixed
+M04,"Grateful it's over but grieving how much I lost along the way.","gratitude,grief",mixed
+M05,"I love my new city but I really miss my old friends.","love,sadness",mixed
+M06,"Relieved the surgery went well, but scared about recovery.","relief,fear",mixed
+M07,"So proud of my team, but disappointed we still lost.","pride,disappointment",mixed
+M08,"Happy the semester's done, nervous about the grades though.","joy,nervousness",mixed
+M09,"I'm thrilled about the wedding but nervous about the speech.","excitement,nervousness",mixed
+M10,"Grateful for the help, but embarrassed I needed it.","gratitude,embarrassment",mixed
+M11,"Excited to move out, but sad to leave my family.","excitement,sadness",mixed
+M12,"I admire her courage, but I'm worried about what happens next.","admiration,fear",mixed
+M13,"Happy we won, but I feel bad for the other team.","joy,caring",mixed
+M14,"Relieved it's finally confirmed, but still a little in shock.","relief,surprise",mixed
+M15,"I'm proud of how far I've come, but I still feel behind.","pride,disappointment",mixed
+M16,"So in love with this city, but homesick every single day.","love,sadness",mixed
+M17,"Excited about the trip but anxious about flying again.","excitement,nervousness",mixed
+M18,"Happy she's happy, even though it's hard for me to watch.","joy,sadness",mixed
+M19,"Relieved the exam is over, disappointed with how I did.","relief,disappointment",mixed
+M20,"Grateful for the opportunity, but overwhelmed by the responsibility.","gratitude,nervousness",mixed
+M21,"I'm proud of him for trying, but frustrated he didn't ask for help sooner.","pride,annoyance",mixed
+M22,"Happy to be home, sad the trip is already a memory.","joy,sadness",mixed
+M23,"Excited to start fresh, but scared of failing again.","excitement,fear",mixed
+M24,"Thankful they're safe, but furious about how it happened.","gratitude,anger",mixed
+M25,"So proud of us for getting through this year, but exhausted from it too.","pride,relief",mixed
